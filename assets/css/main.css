@@ -2692,6 +2692,7 @@ ul.posts article header {
 ul.posts article header h3 {
   font-size: 0.7em;
   margin-top: 0.125em;
+  background-color: r !important;
 }
 
 ul.posts article header .published {
