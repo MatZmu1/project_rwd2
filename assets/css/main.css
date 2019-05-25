@@ -189,6 +189,7 @@ html {
 
 body {
   background: #b82222 !important;
+  font-size: 34px;
 }
 
 body.is-preload *,
